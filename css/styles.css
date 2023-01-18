@@ -1,5 +1,12 @@
-h1 { 
-   color:   blue;
-   background-color: grey
-  }
 
+body {
+   color: rgb(184, 104, 153);
+   background-color: thistle;
+   padding: 15px;
+}
+#intro  {
+   color: rgb(167, 18, 18)
+}
+#Shopping-list  {
+   color: rgb(159, 151, 151);
+}
