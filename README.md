@@ -7,7 +7,7 @@
 *_CSS
 
 ## Description:
-_My first webpage is meant to be sort of a diary, or thrown away napkin somebody used to write their thoughts down. I included a snippet of a poem forming in my brain, a missing flyer, a shopping list and images that help me convey what I lost, and what I want to find.
+_My first webpage is meant to be sort of a diary, or thrown away napkin somebody used to write their thoughts down. I included a snippet of a poem forming in my brain, a missing flyer, a shopping list and images that help me convey what I lost and what I want to find.
 
 ## Setup/Installation Requirements
 *_There are no specific requirements besides saving the HTML file to your computer and opening it from your files application to view my webpage.
