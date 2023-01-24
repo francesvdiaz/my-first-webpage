@@ -16,7 +16,7 @@ My first webpage is meant to be sort of a diary, or thrown away napkin somebody 
 4. Open your terminal on your computer
 5. Go to your desktop. Do this by entering $ cd ~/desktop
 6. Enter $ git clone https://github.com/francesvdiaz/my-first-webpage
-7. Now go to the portfolio directory you just made by entering $ cd my-first-webpage
+7. Now go to the project directory you just made by entering $ cd my-first-webpage
 8. Now enter $ open .
 9. Click on file in file finder and open in vscode by right clicking it.
 10. Now you're looking at my code!
@@ -29,7 +29,7 @@ There are currently no known bugs, phew.
 ## License:
 No license, yet! If you have any questions, email me at: vfrances.ww@gmail.com
 
-##Github Page Link
+## Github Page Link
 Check it out! https://francesvdiaz.github.io/my-first-webpage/
 
 *Copyright(c)_1/09/2022_Frances-Ojeda-Diaz_*
