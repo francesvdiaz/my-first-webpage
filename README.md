@@ -18,10 +18,10 @@ My first webpage is meant to be sort of a diary, or thrown away napkin somebody 
 6. Enter $ git clone https://github.com/francesvdiaz/my-first-webpage
 7. Now go to the project directory you just made by entering $ cd my-first-webpage
 8. Now enter $ open .
-9. Click on file in file finder and open in vscode by right clicking it and choosing that option.
+9. Click on file in file finder and open in vscode by right clicking it and choosing that option
 10. Now you're looking at my code!
-11. Open the index.html doc on in a web browser browser by right clicking it and choosing open in [browser you use].
-12. Scroll, scroll, look at the colors, text and image.
+11. Open the index.html doc on in a web browser browser by right clicking it and choosing open in [browser you use]
+12. Scroll, scroll, look at the colors, text and image
 
 ## Known Bugs:
 There are currently no known bugs, phew.
