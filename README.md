@@ -22,14 +22,14 @@ My first webpage is meant to be sort of a diary, or thrown away napkin somebody 
 10. Now you're looking at my code!
 11. Open the index.html doc on in a web browser browser by right clicking it and choosing open in [browser you use]
 12. Scroll, scroll, look at the colors, text and image
-
+There are no specific requirements besides saving the HTML file to your computer and opening it from your files application to view my webpage.
 ## Known Bugs:
 There are currently no known bugs, phew.
 
 ## License:
 No license, yet! If you have any questions, email me at: vfrances.ww@gmail.com
 
+<<<<<<< HEAD
 ## Github Page Link
 Check it out! https://francesvdiaz.github.io/my-first-webpage/
-
 *Copyright(c)_1/09/2022_Frances-Ojeda-Diaz_*
